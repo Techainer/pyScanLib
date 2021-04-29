@@ -1,5 +1,5 @@
 import twain
-import Image
+from PIL import Image
 from StringIO import StringIO
 
 #======================================================================
